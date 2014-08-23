@@ -4,8 +4,8 @@ import (
 	"github.com/astaxie/beego"
 	"net"
 	"strings"
-	"tcp-server/core"
-	"tcp-server/socket"
+	"github.com/jxufeliujj/tcp-server/core"
+	"github.com/jxufeliujj/tcp-server/socket"
 	"time"
 )
 

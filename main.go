@@ -1,7 +1,7 @@
 package main
 
 import (
-	"tcp-server/server"
+	"github.com/jxufeliujj/tcp-server/server"
 )
 
 func main() {
